@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Delgado | Voice Deepfakes Research Project</title>
+    <link>https://example.com/author/jonathan-delgado/</link>
+      <atom:link href="https://example.com/author/jonathan-delgado/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Delgado</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/jonathan-delgado/avatar_hufa8a470ac974171667b7c77eefe8271c_130497_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jonathan Delgado</title>
+      <link>https://example.com/author/jonathan-delgado/</link>
+    </image>
+    
+  </channel>
+</rss>

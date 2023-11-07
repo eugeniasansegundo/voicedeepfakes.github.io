@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Univaso | Voice Deepfakes Research Project</title>
+    <link>https://example.com/author/pedro-univaso/</link>
+      <atom:link href="https://example.com/author/pedro-univaso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro Univaso</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/pedro-univaso/avatar_hu58c7cff83bffa21bcbf10f579126d88a_84401_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Pedro Univaso</title>
+      <link>https://example.com/author/pedro-univaso/</link>
+    </image>
+    
+  </channel>
+</rss>
+ink>
+    </image>
+    
+    <item>
+      <title>¿Voz real o deepfake? Aportaciones desde la fonética forense</title>
+      <link>https://example.com/event/san-segundo-voz-2023/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-voz-2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Resumen:&lt;/strong&gt; &lt;br&gt;
+Cada vez es más frecuente encontrar, en diferentes medios de comunicación digital, ejemplos de voces extremadamente similares a las humanas (por ejemplo, las de algún político, actor o periodista), pero que en realidad han sido simuladas mediante inteligencia artificial. Se trata de los llamados &amp;ldquo;deepfakes”, cada vez más extendidos gracias al auge de las redes neuronales profundas. Si bien estos avances tecnológicos pueden reportar grandes beneficios en el ámbito clínico (clonación de voz para pacientes con trastornos neurodegenerativos) o en el área de la síntesis de voz (dotar de características naturales a los asistentes de voz), existen otros ámbitos en los que esta tecnología supone una amenaza. En ocasiones cae en manos de defraudadores, que cometen infracciones de seguridad aprovechando que cada vez es más habitual el acceso a las cuentas bancarias mediante autenticación vocal. Estas situaciones se conocen como ataques de suplantación de identidad (en inglés: spoofing attacks). En el ámbito forense, si los deepfakes llegan a convertirse en audios de un realismo extremo, existe el peligro de que cuestione el uso de grabaciones de voz como prueba en los informes periciales, precisamente por la imposibilidad de distinguir voces reales de deepfakes.&lt;/p&gt;
+&lt;p&gt;En esta comunicación presentaremos los objetivos y la metodología del proyecto de investigación “¿Qué hace humana a una voz? Hacia una mejor comprensión de las características fonéticas que permiten distinguir voces reales de deepfakes (HowDIs: How Deepfake Is your voice)”, PID2021-124995OA-I00, financiado por MCIN/ AEI/ y por FEDER (UE). Nos centraremos en explicar la metodología llevada a cabo en la primera fase del proyecto: revisión sistemática de la bibliografía relevante para los objetivos de nuestro proyecto. Para ello hemos seguido las etapas metodológicas habituales en una revisión Cochrane (Sambunjak, Cumpston y Watts, 2017), que tiene como objetivo reducir el sesgo en el proceso de recogida de datos bibliográficos, en su síntesis y en la presentación de los mismos. Las características clave de una revisión sistemática son: objetivos claramente establecidos; criterios de elegibilidad predefinidos; metodología explícita y reproducible; búsqueda sistemática de la bibliografía; evaluación de la validez de los estudios incluidos (evaluación exhaustiva de su calidad o su riesgo de sesgo); y, finalmente, síntesis sistemática.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Referencias&lt;/strong&gt;
+Sambunjak D, Cumpston M, Watts C. Module 1: Introduction to conducting systematic reviews. In: Cochrane Interactive Learning: Conducting an intervention review. Cochrane, 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
