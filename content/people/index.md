@@ -1,5 +1,5 @@
 ---
-date: "2022-10-24"
+date: "2023-12-31"
 sections:
 - block: people
   content:

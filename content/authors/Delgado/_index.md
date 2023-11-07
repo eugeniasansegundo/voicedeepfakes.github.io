@@ -1,10 +1,6 @@
 ---
-authors:
-- Jonathan Delgado
-
-  matter.
-education:
-  courses:
+#education:
+#  courses:
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
@@ -16,7 +12,7 @@ education:
 #    year: 2008
 email: ""
 first_name: Jonathan 
-interests:
+#interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval

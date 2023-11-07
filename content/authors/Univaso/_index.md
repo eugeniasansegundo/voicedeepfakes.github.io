@@ -1,8 +1,5 @@
 ---
-authors:
-- Pedro Univaso
 
-  matter.
 # education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
@@ -16,7 +13,7 @@ authors:
 #    year: 2008
 email: ""
 first_name: Pedro 
-interests:
+#interests:
 #- Artificial Intelligence
 #- Computational Linguistics
 #- Information Retrieval
