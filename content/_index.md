@@ -15,7 +15,7 @@ sections:
       (1) the latest research in Artificial Intelligence and **automatic system design** to avoid spoofing attacks, and
       (2) the **linguistic-phonetic knowledge** that can be used to distinguish real voices from fake voices.
       
-      Our aim is to help **detect fake audios**, which have a negative impact on **forensic and legal contexts**.
+      Our aim is to help **detect fake audios**, which have a negative impact on **forensic contexts**.
     title: |
       How deep(fake) is your voice?
       
