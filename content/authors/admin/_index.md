@@ -11,7 +11,7 @@ title: "Eugenia San Segundo"
 #- admin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
 role: Tenured Scientist in Experimental and Applied Phonetics
@@ -47,7 +47,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=VrUXLL0AAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

@@ -10,7 +10,7 @@ sections:
     - Principal Investigator
     - Researchers
     - Grad Students
-    - Administration
+    - Collaborators
     - Visitors
     - Alumni
   design:

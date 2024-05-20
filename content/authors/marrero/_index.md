@@ -45,7 +45,7 @@ social:
 #  link: https://twitter.com/USERNAME
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://scholar.google.com/citations?user=J2TytMYAAAAJ&hl=th
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/USERNAME

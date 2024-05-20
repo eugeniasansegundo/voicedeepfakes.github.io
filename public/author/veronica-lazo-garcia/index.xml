@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verónica Lazo García | Voice Deepfakes Research Project</title>
+    <link>https://example.com/author/veronica-lazo-garcia/</link>
+      <atom:link href="https://example.com/author/veronica-lazo-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Verónica Lazo García</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/veronica-lazo-garcia/avatar_hu15376cbfa9cfc566d149115a7bed3dd1_948266_270x270_fill_lanczos_center_3.png</url>
+      <title>Verónica Lazo García</title>
+      <link>https://example.com/author/veronica-lazo-garcia/</link>
+    </image>
+    
+  </channel>
+</rss>
