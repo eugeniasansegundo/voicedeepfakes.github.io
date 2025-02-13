@@ -19,24 +19,7 @@ sections:
     title: |
       How deep(fake) is your voice?
       
-- block: collection
-  content:
-    count: 5
-    filters:
-      author: ""
-      category: ""
-      exclude_featured: false
-      publication_type: ""
-      tag: ""
-    offset: 0
-    order: desc
-    page_type: post
-    subtitle: Compilation of news and other useful resources about the project's topic
-    text: null
-    title: Resources
-  design:
-    columns: "1"
-    view: card
+
 - block: markdown
   content:
     subtitle: ""

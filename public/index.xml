@@ -13,6 +13,106 @@
     </image>
     
     <item>
+      <title>A qualitative systematic review of intra-speaker variation in the human voice</title>
+      <link>https://example.com/publication/san-segundo-qualitative-2025/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-qualitative-2025/</guid>
+      <description>&lt;p&gt;Link to the publication &lt;a href=&#34;https://osf.io/preprints/osf/me6ap_v1&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Un estudio de caso sobre los cuatro momentos espectrales y el pico de máxima intensidad de /s/ en una voz natural y una voz clonada por la IA Elevenlabs</title>
+      <link>https://example.com/publication/torres-2024/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/torres-2024/</guid>
+      <description>&lt;p&gt;Link to the publication &lt;a href=&#34;https://revistasinvestigacion.unmsm.edu.pe/index.php/lenguaysociedad/article/view/29209&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deepfakes frente a voces de gemelos idénticos: un análisis acústico preliminar</title>
+      <link>https://example.com/publication/san-segundo-deepfakes-2024/</link>
+      <pubDate>Mon, 25 Nov 2024 18:39:04 +0100</pubDate>
+      <guid>https://example.com/publication/san-segundo-deepfakes-2024/</guid>
+      <description>&lt;p&gt;Link to the publication &lt;a href=&#34;https://osf.io/preprints/osf/ckf6g&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reconocimiento perceptivo de hablantes: un experimento con voces clonadas artificialmente y con voces de gemelos idénticos</title>
+      <link>https://example.com/publication/san-segundo-reconocimiento-2024/</link>
+      <pubDate>Mon, 25 Nov 2024 18:27:24 +0100</pubDate>
+      <guid>https://example.com/publication/san-segundo-reconocimiento-2024/</guid>
+      <description>&lt;p&gt;Link to the publication &lt;a href=&#34;https://osf.io/preprints/osf/dtgwc&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>El reto de investigar deepfakes de voz en la era de la inteligencia artificial</title>
+      <link>https://example.com/event/san-segundo-reto-2024/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-reto-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker identification of artificially cloned voices versus the voices of identical twins: a perceptual test.</title>
+      <link>https://example.com/event/san-segundo-speaker-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 20:07:47 +0200</pubDate>
+      <guid>https://example.com/event/san-segundo-speaker-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice deepfakes and the voices of identical twins: a preliminary acoustic analysis</title>
+      <link>https://example.com/event/san-segundo-voice-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 20:07:47 +0200</pubDate>
+      <guid>https://example.com/event/san-segundo-voice-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering approaches to dysarthria using spectral measures from the temporal envelope</title>
+      <link>https://example.com/event/san-segundo-clustering-2024/</link>
+      <pubDate>Tue, 02 Jul 2024 20:38:53 +0200</pubDate>
+      <guid>https://example.com/event/san-segundo-clustering-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering approaches to dysarthria using spectral measures from the temporal envelope</title>
+      <link>https://example.com/publication/san-segundo-clustering-2024/</link>
+      <pubDate>Tue, 02 Jul 2024 18:00:19 +0200</pubDate>
+      <guid>https://example.com/publication/san-segundo-clustering-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El efecto «otro acento» en una rueda de reconocimiento de voces: un estudio perceptivo en español</title>
+      <link>https://example.com/publication/san-segundo-efecto-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-efecto-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La fonética forense: de dónde venimos y hacia dónde vamos</title>
+      <link>https://example.com/event/san-segundo-fonetica-2024/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-fonetica-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profundizando en los deepfakes: ¿Qué hace humana a una voz?</title>
+      <link>https://example.com/publication/san-segundo-profundizando-2024/</link>
+      <pubDate>Mon, 15 Apr 2024 11:10:57 +0200</pubDate>
+      <guid>https://example.com/publication/san-segundo-profundizando-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ciencia ante la desinformación</title>
       <link>https://example.com/post/semana-de-la-ciencia/</link>
       <pubDate>Wed, 08 Nov 2023 18:53:35 +0100</pubDate>
@@ -71,6 +171,14 @@
     
     <item>
       <title>Characterizing rhythm in dysarthric speech using the temporal envelope</title>
+      <link>https://example.com/publication/san-segundo-characterizing-2023/</link>
+      <pubDate>Wed, 23 Aug 2023 18:00:19 +0200</pubDate>
+      <guid>https://example.com/publication/san-segundo-characterizing-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing rhythm in dysarthric speech using the temporal envelope</title>
       <link>https://example.com/event/san-segundo-characterizing-2023/</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/event/san-segundo-characterizing-2023/</guid>
@@ -103,6 +211,23 @@ Sambunjak D, Cumpston M, Watts C. Module 1: Introduction to conducting systemati
     </item>
     
     <item>
+      <title>La fonética forense: nuevos retos y nuevas líneas de investigación</title>
+      <link>https://example.com/publication/san-segundo-lafonetica-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-lafonetica-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La fonética forense: qué es y cuáles son sus principales áreas de aplicación</title>
+      <link>https://example.com/publication/san-segundo-foneticaforense-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-foneticaforense-2023/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.scimagojr.com/journalsearch.php?q=19700200924&amp;amp;tip=sid&amp;amp;exact=no&#34; title=&#34;SCImago Journal &amp;amp; Country Rank&#34;&gt;&lt;img border=&#34;0&#34; src=&#34;https://www.scimagojr.com/journal_img.php?id=19700200924&#34; alt=&#34;SCImago Journal &amp;amp; Country Rank&#34;  /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://example.com/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
@@ -115,6 +240,14 @@ Sambunjak D, Cumpston M, Watts C. Module 1: Introduction to conducting systemati
       <link>https://example.com/tour/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/tour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice Quality at the Crossroads between Forensic Phonetics and Clinical Phonetics</title>
+      <link>https://example.com/publication/san-segundo-voice-2022/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-voice-2022/</guid>
       <description></description>
     </item>
     

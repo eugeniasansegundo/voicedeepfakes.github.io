@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurora López Jareño | Voice Deepfakes Research Project</title>
+    <link>https://example.com/author/aurora-lopez-jareno/</link>
+      <atom:link href="https://example.com/author/aurora-lopez-jareno/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aurora López Jareño</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/aurora-lopez-jareno/avatar_hu9060b7a99162d0b96b3c4037fcbc7ad2_128002_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Aurora López Jareño</title>
+      <link>https://example.com/author/aurora-lopez-jareno/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book | Voice Deepfakes Research Project</title>
+    <link>https://example.com/publication-type/book/</link>
+      <atom:link href="https://example.com/publication-type/book/index.xml" rel="self" type="application/rss+xml" />
+    <description>Book</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Book</title>
+      <link>https://example.com/publication-type/book/</link>
+    </image>
+    
+    <item>
+      <title>La fonética forense: nuevos retos y nuevas líneas de investigación</title>
+      <link>https://example.com/publication/san-segundo-lafonetica-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-lafonetica-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

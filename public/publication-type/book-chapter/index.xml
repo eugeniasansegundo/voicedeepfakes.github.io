@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book chapter | Voice Deepfakes Research Project</title>
+    <link>https://example.com/publication-type/book-chapter/</link>
+      <atom:link href="https://example.com/publication-type/book-chapter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Book chapter</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Book chapter</title>
+      <link>https://example.com/publication-type/book-chapter/</link>
+    </image>
+    
+    <item>
+      <title>El efecto «otro acento» en una rueda de reconocimiento de voces: un estudio perceptivo en español</title>
+      <link>https://example.com/publication/san-segundo-efecto-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-efecto-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

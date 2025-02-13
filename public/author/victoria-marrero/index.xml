@@ -5,12 +5,20 @@
     <link>https://example.com/author/victoria-marrero/</link>
       <atom:link href="https://example.com/author/victoria-marrero/index.xml" rel="self" type="application/rss+xml" />
     <description>Victoria Marrero</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Victoria Marrero</title>
       <link>https://example.com/author/victoria-marrero/</link>
     </image>
+    
+    <item>
+      <title>El efecto «otro acento» en una rueda de reconocimiento de voces: un estudio perceptivo en español</title>
+      <link>https://example.com/publication/san-segundo-efecto-2024/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/san-segundo-efecto-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>¿Voz real o deepfake? Aportaciones desde la fonética forense</title>

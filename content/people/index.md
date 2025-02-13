@@ -12,6 +12,7 @@ sections:
     - Grad Students
     - Collaborators
     - Visitors
+    - Interns
     - Alumni
   design:
     show_interests: false

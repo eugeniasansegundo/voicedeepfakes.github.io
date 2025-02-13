@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Gibson | Voice Deepfakes Research Project</title>
+    <link>https://example.com/author/mark-gibson/</link>
+      <atom:link href="https://example.com/author/mark-gibson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Gibson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Nov 2024 18:27:24 +0100</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Mark Gibson</title>
+      <link>https://example.com/author/mark-gibson/</link>
+    </image>
+    
+    <item>
+      <title>Reconocimiento perceptivo de hablantes: un experimento con voces clonadas artificialmente y con voces de gemelos idénticos</title>
+      <link>https://example.com/publication/san-segundo-reconocimiento-2024/</link>
+      <pubDate>Mon, 25 Nov 2024 18:27:24 +0100</pubDate>
+      <guid>https://example.com/publication/san-segundo-reconocimiento-2024/</guid>
+      <description>&lt;p&gt;Link to the publication &lt;a href=&#34;https://osf.io/preprints/osf/dtgwc&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Speaker identification of artificially cloned voices versus the voices of identical twins: a perceptual test.</title>
+      <link>https://example.com/event/san-segundo-speaker-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 20:07:47 +0200</pubDate>
+      <guid>https://example.com/event/san-segundo-speaker-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

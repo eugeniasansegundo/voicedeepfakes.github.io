@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oscar Esaul Cueva Sanchez | Voice Deepfakes Research Project</title>
+    <link>https://example.com/author/oscar-esaul-cueva-sanchez/</link>
+      <atom:link href="https://example.com/author/oscar-esaul-cueva-sanchez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oscar Esaul Cueva Sanchez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Oscar Esaul Cueva Sanchez</title>
+      <link>https://example.com/author/oscar-esaul-cueva-sanchez/</link>
+    </image>
+    
+    <item>
+      <title>Un estudio de caso sobre los cuatro momentos espectrales y el pico de máxima intensidad de /s/ en una voz natural y una voz clonada por la IA Elevenlabs</title>
+      <link>https://example.com/publication/torres-2024/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/torres-2024/</guid>
+      <description>&lt;p&gt;Link to the publication &lt;a href=&#34;https://revistasinvestigacion.unmsm.edu.pe/index.php/lenguaysociedad/article/view/29209&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

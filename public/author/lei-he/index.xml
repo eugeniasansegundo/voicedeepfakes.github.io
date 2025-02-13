@@ -5,12 +5,36 @@
     <link>https://example.com/author/lei-he/</link>
       <atom:link href="https://example.com/author/lei-he/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei He</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 08 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Jul 2024 20:38:53 +0200</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Lei He</title>
       <link>https://example.com/author/lei-he/</link>
     </image>
+    
+    <item>
+      <title>Clustering approaches to dysarthria using spectral measures from the temporal envelope</title>
+      <link>https://example.com/event/san-segundo-clustering-2024/</link>
+      <pubDate>Tue, 02 Jul 2024 20:38:53 +0200</pubDate>
+      <guid>https://example.com/event/san-segundo-clustering-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering approaches to dysarthria using spectral measures from the temporal envelope</title>
+      <link>https://example.com/publication/san-segundo-clustering-2024/</link>
+      <pubDate>Tue, 02 Jul 2024 18:00:19 +0200</pubDate>
+      <guid>https://example.com/publication/san-segundo-clustering-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing rhythm in dysarthric speech using the temporal envelope</title>
+      <link>https://example.com/publication/san-segundo-characterizing-2023/</link>
+      <pubDate>Wed, 23 Aug 2023 18:00:19 +0200</pubDate>
+      <guid>https://example.com/publication/san-segundo-characterizing-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Characterizing rhythm in dysarthric speech using the temporal envelope</title>

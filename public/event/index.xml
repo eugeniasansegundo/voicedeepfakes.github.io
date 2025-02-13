@@ -5,12 +5,52 @@
     <link>https://example.com/event/</link>
       <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Events</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2023 12:49:08 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Events</title>
       <link>https://example.com/event/</link>
     </image>
+    
+    <item>
+      <title>El reto de investigar deepfakes de voz en la era de la inteligencia artificial</title>
+      <link>https://example.com/event/san-segundo-reto-2024/</link>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-reto-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker identification of artificially cloned voices versus the voices of identical twins: a perceptual test.</title>
+      <link>https://example.com/event/san-segundo-speaker-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 20:07:47 +0200</pubDate>
+      <guid>https://example.com/event/san-segundo-speaker-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voice deepfakes and the voices of identical twins: a preliminary acoustic analysis</title>
+      <link>https://example.com/event/san-segundo-voice-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 20:07:47 +0200</pubDate>
+      <guid>https://example.com/event/san-segundo-voice-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering approaches to dysarthria using spectral measures from the temporal envelope</title>
+      <link>https://example.com/event/san-segundo-clustering-2024/</link>
+      <pubDate>Tue, 02 Jul 2024 20:38:53 +0200</pubDate>
+      <guid>https://example.com/event/san-segundo-clustering-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La fonética forense: de dónde venimos y hacia dónde vamos</title>
+      <link>https://example.com/event/san-segundo-fonetica-2024/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/event/san-segundo-fonetica-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fonética forense: no existe un libro de recetas</title>
